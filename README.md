@@ -1,6 +1,7 @@
 # Projeto-Logica-Aplicada-a-Computacao
 
-@Vinicius Santana Martins
+@Vinicius_Santana_Martins
+@Jorge_Guilherme_da_Silva
 
 Este projeto foi desenvolvido como requisito para a AB2.2, apresentado à disciplina de Lógica Aplicada à Computação 2025.2, no curso de Engenharia da Computação.
 
